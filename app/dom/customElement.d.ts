@@ -1,0 +1,3 @@
+interface NSElementTagNameMap {
+  custom: NSCustomElement;
+}
